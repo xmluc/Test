@@ -6,3 +6,4 @@ then use the command git add <filename> to add file which will be commited to th
 dev of PushToRemoteInsert 444444 in dev of Push2
 =======
 >>>>>>> ccfa1a7b678c76aa4876e35a8d10cee72bf66900
+# Something changed in master of PushToRemote
